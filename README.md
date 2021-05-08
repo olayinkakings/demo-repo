@@ -1,3 +1,3 @@
 # Demo tutorial
 
-Understanding how to Git works!
+Description - Understanding how to Git works!
